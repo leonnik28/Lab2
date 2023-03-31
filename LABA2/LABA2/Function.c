@@ -5,6 +5,13 @@
 #include "Program.h"
 #include "struct.h"
 
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include "Program.h"
+#include "struct.h"
+
 void to_lower(char* str) {
     for (int i = 0; i < strlen(str); i++) {
         str[i] = (char)tolower(str[i]);  
@@ -35,7 +42,7 @@ void delete_last_symbol(unsigned char* temp) {
 void transition_new_line(char* temp, const char* token) {
 
     if (token == NULL) {
-        strcat(temp, "\n");
+        strcat_s(temp, sizeof(temp), "\n");
     }
     if (token[strlen(token) - 1] != '\n') {
         strcat(temp, " ");
@@ -83,10 +90,12 @@ void token(char* buffer, char* tmp, char** words, int end) {
 }
 
 int compress(NodeWord* node) {
+    errno_t err, err_1;
+    FILE* fp_in, *fp_out;
+    err = fopen_s(&fp_in, "input.txt", "r");
+    err_1 = fopen_s(&fp_out, "output.txt", "r+");
+    file_open_all(err, err_1);
 
-    FILE* fp_in = fopen("input.txt", "r");
-    FILE* fp_out = fopen("output.txt", "r+");
-    file_open_all(fp_in, fp_out);
     char* min_word = NULL;
     char* max_word = NULL;
 
@@ -109,7 +118,7 @@ int compress(NodeWord* node) {
     int count = init_array_int(node, word, fp_out);
     char** word_copy = calloc(count + 1, sizeof(char*));
     for (int i = 0; i < count; i++) {
-        word_copy[i] = strdup(word[i]);
+        word_copy[i] = _strdup(word[i]);
     }
     fseek(fp_out, position, SEEK_SET);
 
@@ -118,7 +127,7 @@ int compress(NodeWord* node) {
         //inputSpaces(buffer, tmp, 0);            
         token(buffer, tmp, word_copy, count);
         delete_last_symbol(tmp);              
-        strcat(tmp, "\n");              
+        strcat(tmp, "\n");
        // tmp = (char*)realloc(tmp, (strlen(tmp) + 2) * sizeof(char));              
         fprintf(fp_out, "%s", tmp);              
         free(tmp);       
