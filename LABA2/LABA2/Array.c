@@ -7,7 +7,7 @@
 
 void createArray(NodeWord* node, char* wd) {
     struct Word* word = (struct Word*)calloc(1, sizeof(struct Word));
-    strcpy(word->word, wd);
+    strcpy_s(word->word, _countof(word->word), wd);
     word->count = 1;
     word->next = NULL;
     word->pre = node->current;
@@ -37,7 +37,7 @@ void init_array(NodeWord* node, char*** word, FILE* fp_out) {
     char* token = strtok_s(buffer, " \t\n", &savePtr);
     while (token != NULL) {
         *word = (char*)realloc(*word, (i + 1) * sizeof(char*));
-        (*word)[i] = strdup(token);
+        (*word)[i] = _strdup(token);
         i++;
         token = strtok_s(NULL, " \t\n", &savePtr);
     }
