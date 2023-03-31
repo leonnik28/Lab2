@@ -5,7 +5,7 @@
 #include "Program.h"
 #include "struct.h"
 
-void createArray(NodeWord* node, char* wd) {
+void create_struct(NodeWord* node, const char* wd) {
     struct Word* word = (struct Word*)calloc(1, sizeof(struct Word));
     strcpy_s(word->word, _countof(word->word), wd);
     word->count = 1;
@@ -25,7 +25,8 @@ NodeWord* createArrayNode() {
     return (NodeWord*)calloc(1, sizeof(NodeWord));
 }
 
-void init_array(NodeWord* node, char*** word, FILE* fp_out) {
+void init_array(char*** word, FILE* fp_out) {
+
     fseek(fp_out, 0L, SEEK_SET);
 
     char buffer[2000];
@@ -33,17 +34,16 @@ void init_array(NodeWord* node, char*** word, FILE* fp_out) {
     int i = 0;
 
     fgets(buffer, 2000, fp_out);
-    char* token = strtok_s(buffer, " \t\n", &savePtr);
+    const char* token = strtok_s(buffer, " \t\n", &savePtr);
     while (token != NULL) {
         *word = (char*)realloc(*word, (i + 1) * sizeof(char*));
         (*word)[i] = _strdup(token);
         i++;
         token = strtok_s(NULL, " \t\n", &savePtr);
     }
-    *word = (char*)realloc(*word, (i - 1) * sizeof(char*));
 }
 
-int init_array_int(NodeWord* node, char** word, FILE* fp_out) {
+int init_array_int(char** word, FILE* fp_out) {
 
     fseek(fp_out, 0L, SEEK_SET);
 
