@@ -21,7 +21,7 @@ void inputSpaces(unsigned const char* buffer, char* temp, int i) {
         i++;
     }
     for (int j = i; j < numSpaces; j++) {
-        strcat(temp, " ");
+        strcat_s(temp, 1000, " ");
     }
 
 }
@@ -35,10 +35,10 @@ void delete_last_symbol(unsigned char* temp) {
 void transition_new_line(char* temp, const char* token) {
 
     if (token == NULL) {
-        strcat_s(temp, sizeof(temp), "\n");
+        strcat_s(temp, 1000, "\n");
     }
     if (token[strlen(token) - 1] != '\n') {
-        strcat(temp, " ");
+        strcat_s(temp, 1000, " ");
     }
     else {
         temp[strlen(temp) - 1] = '\0';
@@ -61,13 +61,13 @@ void token(char* buffer, char* tmp, char** words, int end) {
         int found = 0;
         while (i < end) {
             if (strcmp(token, words[i]) == 0) {
-                strcat(tmp, words[i + 1]);
+                strcat_s(tmp, 1000, words[i + 1]);
                 transition_new_line(tmp, token);
                 found = 1;
                 break;
             }
             else if (strcmp(token, words[i + 1]) == 0) {
-                strcat(tmp, words[i]);
+                strcat_s(tmp, 1000, words[i]);
                 transition_new_line(tmp, token);
                 found = 1;
                 break;
@@ -75,7 +75,7 @@ void token(char* buffer, char* tmp, char** words, int end) {
             i += 2;
         }
         if (found == 0) {
-            strcat(tmp, token);
+            strcat_s(tmp, 1000, token);
             transition_new_line(tmp, token);
         }
         token = strtok_s(NULL, " \t\n", &savePtr);
@@ -120,7 +120,7 @@ int compress(NodeWord* node) {
         //inputSpaces(buffer, tmp, 0);            
         token(buffer, tmp, word_copy, count);
         delete_last_symbol(tmp);              
-        strcat(tmp, "\n");
+        strcat_s(tmp, 1000, "\n");
        // tmp = (char*)realloc(tmp, (strlen(tmp) + 2) * sizeof(char));              
         fprintf(fp_out, "%s", tmp);              
         free(tmp);       
