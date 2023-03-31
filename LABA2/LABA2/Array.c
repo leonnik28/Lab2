@@ -26,7 +26,6 @@ NodeWord* createArrayNode() {
 }
 
 void init_array(NodeWord* node, char*** word, FILE* fp_out) {
-
     fseek(fp_out, 0L, SEEK_SET);
 
     char buffer[2000];
