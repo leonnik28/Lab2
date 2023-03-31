@@ -1,0 +1,29 @@
+﻿  Array.c
+E:\leonnik\Lab\LABA2\LABA2\Array.c(10,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Array.c(39,63): warning C4047: =: "char **" отличается по уровням косвенного обращения от "char *"
+E:\leonnik\Lab\LABA2\LABA2\Array.c(44,59): warning C4047: =: "char **" отличается по уровням косвенного обращения от "char *"
+E:\leonnik\Lab\LABA2\LABA2\Array.c(40,22): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  File.c
+E:\leonnik\Lab\LABA2\LABA2\File.c(9,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\File.c(17,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\File.c(25,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\File.c(29,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Function.c
+E:\leonnik\Lab\LABA2\LABA2\Function.c(24,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Function.c(38,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Function.c(41,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Function.c(56,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned long"; возможна потеря данных
+E:\leonnik\Lab\LABA2\LABA2\Function.c(64,17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Function.c(70,17): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Function.c(78,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Function.c(87,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Function.c(88,20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Function.c(112,24): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Function.c(121,9): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  LABA2.c
+  Search.c
+E:\leonnik\Lab\LABA2\LABA2\Search.c(10,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Search.c(59,43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\leonnik\Lab\LABA2\LABA2\Search.c(97,43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Создание кода...
+  LABA2.vcxproj -> E:\leonnik\Lab\LABA2\x64\Debug\LABA2.exe
