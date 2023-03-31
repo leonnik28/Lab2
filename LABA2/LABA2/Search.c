@@ -22,23 +22,25 @@ void searc_word(NodeWord* node) {
 
         while (token != NULL) {
             to_lower(buffer);
-            struct  Word* next_w = node->first_word;
-            while (next_w != NULL) {
-                if (strcmp(next_w->word, token) == 0) {
-                    next_w->count++;
-                    break;
-                }
-                next_w = next_w->next;
-            }
-            if (next_w == NULL) {
-                createArray(node, token);
-            }
+            init_struct(node, token);
             token = strtok_s(NULL, " \t\n", &saveptr);
-
         }
     }
-
     fclose(fp_in);
+}
+
+void init_struct(NodeWord* node, char* token) {
+    struct Word* next_w = node->first_word;
+    while (next_w != NULL) {
+        if (strcmp(next_w->word, token) == 0) {
+            next_w->count++;
+            break;
+        }
+        next_w = next_w->next;
+    }
+    if (next_w == NULL) {
+        create_struct(node, token);
+    }
 }
 
 char* search_popular_max(NodeWord* node) {
@@ -60,18 +62,15 @@ char* search_popular_max(NodeWord* node) {
         if (strcmp(word->word, tmp) == 0) strcpy_s(word->tmp, _countof(word->tmp), tmp);
         word = word->next;
     }
-
     return tmp;
 }
 
 int search_popular_max_int(NodeWord* node) {
     int max_count = 0;
-    char* tmp = NULL;
     struct Word* word = node->first_word;
     while (word != NULL) {
         if (strlen(word->word) > 4 && word->count > max_count && strcmp(word->word, word->tmp) != 0) {
             max_count = word->count;
-            tmp = word->word;
         }
         word = word->next;
     }
