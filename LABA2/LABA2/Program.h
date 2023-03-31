@@ -3,9 +3,8 @@
 #include "struct.h"
 
 int search_popular_max_int(NodeWord* node);
-void file_open_all(FILE* fp_in, FILE* fp_out);
-void file_open_out(FILE* fp_out);
-void file_open_in(FILE* fp_in);
+void file_open_all(errno_t err, errno_t err_1);
+void file_open(errno_t err);
 void createArray(NodeWord* pack, char* wd);
 NodeWord* createArrayNode();
 void searc_word(NodeWord* node);
