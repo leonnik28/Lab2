@@ -6,9 +6,10 @@
 #include "struct.h"
 
 void searc_word(NodeWord* node) {
-
-    FILE* fp_in = fopen("input.txt", "r");
-    file_open_in(fp_in);
+    errno_t err;
+    FILE* fp_in;
+    err = fopen_s(&fp_in, "input.txt", "r");
+    file_open(err);
 
     char tmp[100];
     char* saveptr;
@@ -56,7 +57,7 @@ char* search_popular_max(NodeWord* node) {
     }
     word = node->first_word;
     while (word != NULL) {
-        if (strcmp(word->word, tmp) == 0) strcpy(word->tmp, tmp);
+        if (strcmp(word->word, tmp) == 0) strcpy_s(word->tmp, _countof(word->tmp), tmp);
         word = word->next;
     }
 
@@ -94,7 +95,7 @@ char* search_popular_min(NodeWord* node, int count_max) {
         return NULL;
     }
     while (word != NULL) {
-        if (strcmp(word->word, tmp) == 0) strcpy(word->tmp, tmp);
+        if (strcmp(word->word, tmp) == 0) strcpy_s(word->tmp, _countof(word->tmp), tmp);
         word = word->next;
     }
     return tmp;
