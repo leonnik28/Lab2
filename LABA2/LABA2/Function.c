@@ -5,13 +5,6 @@
 #include "Program.h"
 #include "struct.h"
 
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <ctype.h>
-#include "Program.h"
-#include "struct.h"
-
 void to_lower(char* str) {
     for (int i = 0; i < strlen(str); i++) {
         str[i] = (char)tolower(str[i]);  
