@@ -4,29 +4,21 @@
 #include "Program.h"
 #include "struct.h"
 
-void file_open_in(FILE* fp_in) {
+void file_open(errno_t err) {
 
-	if ((fp_in = fopen("input.txt", "r")) == NULL) {
+	if (err != 0) {
 		printf("ERROR input");
 		exit(1);
 	}
 }
 
-void file_open_out(FILE* fp_out) {
+void file_open_all(errno_t err, errno_t err_1) {
 
-	if ((fp_out = fopen("output.txt", "w")) == NULL) {
-		printf("ERROR output");
-		exit(1);
-	}
-}
-
-void file_open_all(FILE* fp_in, FILE* fp_out) {
-
-	if ((fp_in = fopen("input.txt", "r")) == NULL) {
+	if (err != 0) {
 		printf("ERROR input");
 		exit(1);
 	}
-	if ((fp_out = fopen("output.txt", "w")) == NULL) {
+	if (err_1 != 0) {
 		printf("ERROR output");
 		exit(1);
 	}
