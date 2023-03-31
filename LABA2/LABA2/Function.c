@@ -6,24 +6,11 @@
 #include "struct.h"
 
 void to_lower(char* str) {
-    for (int i = 0; i < strlen(str); i++) {
-        str[i] = (char)tolower(str[i]);  
-    }
-}
-
-void inputSpaces(unsigned const char* buffer, char* temp, int i) {
-    int numSpaces = 0;
-
-    while (buffer[i] != '\0' && isspace(buffer[i])) {
-        if (!isalpha(buffer[i])) {
-            numSpaces++;
+    if (str != NULL) {
+        for (int i = 0; i < strlen(str); i++) {
+            str[i] = (char)tolower(str[i]);
         }
-        i++;
     }
-    for (int j = i; j < numSpaces; j++) {
-        strcat_s(temp, 1000, " ");
-    }
-
 }
 
 void delete_last_symbol(unsigned char* temp) {
@@ -43,13 +30,11 @@ void transition_new_line(char* temp, const char* token) {
     else {
         temp[strlen(temp) - 1] = '\0';
     }
-
-
 }
 
 void token(char* buffer, char* tmp, char** words, int end) {
     char* savePtr;
-    char* token = strtok_s(buffer, " \t\n", &savePtr);
+    const char* token = strtok_s(buffer, " \t\n", &savePtr);
 
 
     while (token != NULL) {
@@ -106,9 +91,9 @@ int compress(NodeWord* node) {
     }      
 
     long int position = ftell(fp_out);           
-    init_array(node, &word, fp_out);        
+    init_array(&word, fp_out);        
     char buffer[1000];       
-    int count = init_array_int(node, word, fp_out);
+    int count = init_array_int(word, fp_out);
     char** word_copy = calloc(count + 1, sizeof(char*));
     for (int i = 0; i < count; i++) {
         word_copy[i] = _strdup(word[i]);
@@ -116,12 +101,10 @@ int compress(NodeWord* node) {
     fseek(fp_out, position, SEEK_SET);
 
     while (fgets(buffer, 1000, fp_in) != NULL) {          
-        char* tmp = (char*)calloc(1000, sizeof(char));           
-        //inputSpaces(buffer, tmp, 0);            
+        char* tmp = (char*)calloc(1000, sizeof(char));                    
         token(buffer, tmp, word_copy, count);
         delete_last_symbol(tmp);              
-        strcat_s(tmp, 1000, "\n");
-       // tmp = (char*)realloc(tmp, (strlen(tmp) + 2) * sizeof(char));              
+        strcat_s(tmp, 1000, "\n");     
         fprintf(fp_out, "%s", tmp);              
         free(tmp);       
     }        
