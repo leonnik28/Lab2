@@ -1,0 +1,9 @@
+﻿  Array.c
+E:\leonnik\Lab\LABA2upcompress\LABA2\Array.c(39,63): warning C4047: =: "char **" отличается по уровням косвенного обращения от "char *"
+  File.c
+  Function.c
+E:\leonnik\Lab\LABA2upcompress\LABA2\Function.c(41,29): warning C4267: инициализация: преобразование из "size_t" в "unsigned long"; возможна потеря данных
+  LABA2.c
+  Search.c
+  Создание кода...
+  LABA2.vcxproj -> E:\leonnik\Lab\LABA2upcompress\x64\Debug\LABA2.exe
