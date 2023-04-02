@@ -18,4 +18,5 @@ void token(char* buffer, char* tmp, char** words, int end);
 int compress(NodeWord* node);
 void init_array(char*** word, FILE* fp_out);
 int init_array_int(char** word, FILE* fp_out);
+int un_compress();
 #endif
