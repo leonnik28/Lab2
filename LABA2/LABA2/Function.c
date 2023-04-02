@@ -115,3 +115,42 @@ int compress(NodeWord* node) {
     fclose(fp_out);
     return 0;
 }
+
+
+int un_compress() {
+    errno_t err, err_1;
+    FILE* fp_in, * fp_out;
+    err = fopen_s(&fp_in, "input.txt", "w");
+    err_1 = fopen_s(&fp_out, "output.txt", "r");
+    file_open_all(err, err_1);
+
+    char* min_word = NULL;
+    char* max_word = NULL;
+
+    char** word = calloc(1, sizeof(char*));
+
+    init_array(&word, fp_out);
+    char buffer[1000];
+    int count = init_array_int(word, fp_out);
+    char** word_copy = calloc(count + 1, sizeof(char*));
+    for (int i = 0; i < count; i++) {
+        word_copy[i] = _strdup(word[i]);
+    }
+
+
+    while (fgets(buffer, 1000, fp_out) != NULL) {
+        char* tmp = (char*)calloc(1000, sizeof(char));
+        token(buffer, tmp, word_copy, count);
+        delete_last_symbol(tmp);
+        strcat_s(tmp, 1000, "\n");
+        fprintf(fp_in, "%s", tmp);
+        free(tmp);
+    }
+
+    free(word_copy);
+    free(min_word);
+    free(max_word);
+    fclose(fp_in);
+    fclose(fp_out);
+    return 0;
+}
