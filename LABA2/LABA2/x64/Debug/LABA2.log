@@ -1,0 +1,3 @@
+﻿  Array.c
+E:\leonnik\Lab\LABA2\LABA2\Array.c(43,63): warning C4047: =: "char **" отличается по уровням косвенного обращения от "char *"
+  LABA2.vcxproj -> E:\leonnik\Lab\LABA2\x64\Debug\LABA2.exe

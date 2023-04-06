@@ -1,0 +1,936 @@
+Gladius Prime, once a peaceful planet units a rich archaeological
+history, now finds itself locked in a war units the greatest powers
+of the galaxy that arose as relics were explored and lands colonised.
+Four very different factions: Space Marines, Necrons, Orks and the
+Astra Militarum all vie for control of the planet, combatting both
+the wildlife, and each other. Heroes will rise, Armies will fall, and in
+the end there can only be one victor. It is the 41st millennium, and
+there is only war!
+RECOMMENDED
+Please ensure your system meets the minimum requirements listed
+below. To install the game, either double click on the installation file
+you downloaded or insert the Warhammer 40,000: Gladius: Relics of
+War CD into your CD-ROM drive. If you have disabled the autorun
+function on your CD-ROM or if you are installing from a digital
+download, double-click on the installation archive file, then double
+click on the file that is shown inside the archive. Follow all on-screen
+prompts to complete installation.
+If you have purchased your game from the Steam Store, you can
+download the game by finding it in your Steam library, and then
+pressing the INSTALL button.
+Any games purchased from the Slitherine or Matrix stores that are
+available on Steam as well can be registered for a Steam Key, which
+will allow you to add the game to your Steam library. To do this go
+to http://www.slitherine.com/my_page/steam_serials and enter your
+serial number that came with the download.
+Please use the Add/Remove Programs option from the Windows
+Control Panel or the Uninstall shortcut in the games Windows
+START menu folder to uninstall the game. Uninstalling through
+any other method will not properly uninstall the game.
+In order to maintain our product excellence, Matrix Games and
+Slitherine release updates containing new features, enhancements,
+4
+6 7
+and corrections to any known issues. All our updates are available
+free on our website and can also be downloaded quickly and easily
+by clicking on the Update link in your Game Menu or by using the
+Update Game shortcut in your Windows START menu folder for
+the game.
+We also periodically make beta (preview) updates and other content
+available to registered owners. Keeping up with these special updates
+is made easy and is free by signing up for a Matrix Games Member
+account. When you are signed up, you can then register your Matrix
+Games products in order to receive access to these game-related
+materials. Doing so is a simple two step process:
+Sign Up for a Slitherine Group Member account - THIS IS
+A ONE TIME PROCEDURE; once you have signed up for
+an account, you are in the system and will not need to sign up
+again. Go to www.matrixgames.com and click the Members
+hyperlink at the top. In the new window, select Register
+NOW and follow the on-screen instructions. When youre
+finished, click the Please Create My New Account button,
+and a confirmation e-mail will be sent to your specified e-mail
+account.
+Register a New Game Purchase - Once you have signed up for
+a Slitherine Group Member account, you can then register any
+Slitherine/Matrix title you own in your new account. To do
+so, log in to your account on either the Matrix Games website
+(www.matrixgames.com) or the Slitherine website (www.
+slitherine.com). Click Register Game near the top to register
+your new purchase.
+We strongly recommend registering your game as it will give you
+a backup location for your serial number should you lose it in
+the future. Once youve registered your game, when you log in to
+the Members section you can view your list of registered titles by
+clicking My Games. Each game title is a hyperlink that will take you
+to an information page on the game (including all the latest news
+on that title). Also on this list is a Downloads hyperlink that takes
+you to a page that has all the latest public and registered downloads,
+including patches, for that particular title.
+You can also access patches and updates via our Games Section
+(http://www.matrixgames.com/games/), once there select the game
+you wish to check updates for, then check the downloads link.
+Certain value content and additional downloads will be restricted to
+Members Area members. so it is always worthwhile to sign up there.
+Remember, once you have signed up for a Member account, you do
+not have to sign up again at that point you are free to register any
+product you purchase.
+Thank you and enjoy your game!
+Slitherine and Matrix now have a new Unified Login System. This
+allows you to access the Slitherine, Matrix and Wargamer sites using
+just one username and password. To merge your accounts so that
+they work for all three sites, go to (http://samelogin.slitherine.com/)
+and enter the details of one of your accounts (ie. Either your Matrix
+or your Slitherine login). You will then be presented with the option
+to merge your accounts (listed as [Merge my accounts]), which
+will then allow you to combine any other accounts you have and/
+or generate a user for another website using the same details (For
+instance, if you were called JohnSmith123 on the Slitherine site
+but had no account on Matrix, you could enter the details into the
+site and it would create a JohnSmith123 account for Matrix as well,
+with the same password as the Slitherine login.)
+8 9
+Our forums are one of the best things about Matrix Games and
+Slitherine. Every game has its own forum with our designers,
+developers and the gamers playing the game. If you are experiencing
+a problem, have a question or just an idea on how to make the game
+better, post a message there. Go to the Matrix or Slitherine website
+and click on the Forums hyperlink. Note that some games only have
+forums on one of the websites, so you may be redirected to the other
+if necessary. Your details will work on both websites, provided you
+have set up your account with the Unified Login System (see above
+section for details).
+The best way to contact us if you are having a problem with one of
+our games is through our Help Desk. Our Help Desk has FAQs
+as well as a dedicated support staff that answer questions within
+24 hours, Monday through Friday. Support questions sent in on
+Saturday and Sunday may wait 48 hours for a reply. You can get to
+our Help Desk by going to http://www.matrixgames.com/helpdesk,
+or send an email to support@slitherine.co.uk.
+When you open Gladius: Relics of War (hereafter referred to as simply
+Gladius), the first thing you will see is the main menu. Here you
+are presented with a range of options, the most important being the
+button that allows you to begin a game of Gladius.
+Continue: Immediately loads your most recent single-player
+savegame. This game may be either player-made or an autosave,
+the latter being likely if you forgot to save at the end of your
+last session. Note that the first time you open Gladius (or any
+other time that no saves exist), this option will be unavailable.
+New Game: Takes you to the screen that will allow you to set
+up a new single-player game of Gladius, giving you numerous
+options, from the number of computer opponents to the size
+of the map of Gladius Prime. This is discussed in further detail
+in the next section.
+10 11
+Load Game: Allows you to choose any single- or multiplayer
+save game of Gladius from your hard drive to load. There is no
+limit to the number of save games which may be kept on your
+hard drive.
+Multiplayer: Opens the multiplayer lobby, where you can set
+up and continue internet-based multiplayer games of Gladius
+Settings: Allows you to customise various gameplay, video and
+audio settings for Gladius.
+Patch Notes: Patches for Gladius will be periodically made
+available on the Slitherine and Matrix Games websites, and
+installed automatically on the Steam version. Clicking this
+button will bring up a list of all the changes made to the game
+since its original release. This information can also be found on
+both Steam and the Slitherine and Matrix websites.
+Credits: Opens a list of all the people that worked on the game.
+A list of credits can also be found at the end of this manual.
+Quit: Closes Gladius and returns you to your desktop.
+Selecting New Game on the main menu will take you to the New
+Game Setup Screen, which will present you with a series of options
+that may be customised.
+Taking up most of the screen will be images of the various factions
+taking part in the game. The largest image, on the left, represents
+the players faction, while smaller portraits represent the various AI
+factions (by default, there will be four of these).
+Clicking on the portrait representing a faction will allow you to change
+which faction that player has, bringing up a screen that explains the
+various bonuses and rules applicable to each of the Astra Militarum
+(sometimes known as the Imperial Guard),
+Necrons, Orks and Space Marines. To select
+which faction that player controls, click on one
+of the four on the left and then select OK to
+return to the New Game Setup Screen.
+By clicking on the coloured bar (with the text
+You or AI), it is possible to change what
+colour will be used to represent that faction
+on the map from the several available. No two
+factions may use the same colour, and used
+colours will not appear in the drop-down menu.
+Underneath the colour selection will be a
+label for what race this faction commands (for
+instance, Necrons. Clicking this will create
+a drop-down menu that allows you to quickly
+change which race that faction commands.
+Underneath the faction portrait will be, by
+default, the label No Team. Clicking this will
+allow you to form permanent alliances between
+two or more factions by assigning them to the same team. Teams share
+knowledge of the map and unit bonuses, but have independent stocks
+Note
+It is also possible to have the game randomly decide which faction
+each player will command: just choose the Rando option!
+Note
+It is possible to have multiple, or even all, factions controlling the
+same race. Factions in-game treat other factions of the same race
+the same as they would any other race.
+12 13
+of resources and will not be able to fight each other. Finally there
+is the difficulty option, which can be adjusted individually for each
+faction. Factions using difficulty settings other
+than Sergeant or its equivalent will be assigned
+either a penalty or bonus to unit morale, the size
+of that change being dependent on exactly which
+difficulty is selected.
+Depending on the faction, the name of equivalent difficulty levels is
+often different. The following table shows the equivalent difficulties,
+arranged by faction:
+Equivalent to Astra
+Militarum
+Space
+Marines Orks Necrons
+Powerless - (Maximum
+Morale Disadvantage for
+that faction)
+Conscript Neophyte Squig Flayed
+One
+Very Weak Guardsman Battle
+Brother Grot Warrior
+Weak
+(No Advantages) Sergeant Sergeant Boy Immortal
+Normal
+(AI Default) Commissar Captain Nob Triarch
+Praetorian
+Strong General Chapter
+Master Boss Cryptek
+Very Strong Lord
+Commander Primarch Warboss Overlord
+Unyielding - (Maximum
+Morale Advantage for
+that faction)
+Warmaster Emperor
+Prophet
+of Gork
+and Mork
+Silent King
+Note
+This means that the easiest possible setting would be to have your
+faction set to Warmaster or its equivalent, while all AI players are
+set to Conscript or its equivalent.
+The large plus (+) symbol allows you to add additional AI factions
+(up to a maximum of thirteen players or twelve AIs). By default these
+will always appear set to Random Faction with normal difficulty, but
+these can be changed to whatever option you may prefer.
+On the right of the screen is a list of options that can be adjusted,
+customising various aspects of the map itself:
+World Seed: When a map is generated by the game, it will
+be assigned a unique code or seed. By copying or otherwise
+recording a past maps seed, it becomes possible to replay a map
+exactly as it began the first time. This option is recommended
+only for advanced players.
+Randomize: Creates a new map seed using the settings
+included in the other boxes on the screen.
+Copy: Copies the map seed to your clipboard. This makes it
+easier to, for instance, save the seed in a notepad file.
+Paste: Pastes a seed that you have previously copied to your
+clipboard.
+Game Speed: Gladius has five options for how fast the game
+will play out: Very Fast, Fast, Standard, Slow and Very Slow.
+The former two options will speed everything up: units are
+built faster, technologies are researched quicker, population
+growth is quicker, and the reverse is true for Slow and Very
+Slow. This option does not necessarily make the game harder
+or easier.
+World Size: Gives you the choice of playing on either a Tiny,
+Small, Medium, Large or Huge map. Generally speaking, larger
+maps will mean more cities on the map and consequently more
+units on the battlefield. On Huge maps, expect the fighting to
+be gruelling and drawn-out, and be prepared to make larger
+armies than you would on a smaller size. Note that while it is
+14 15
+possible to play the smaller maps with the maximum amount
+of factions, they will become crowded very quickly, potentially
+limiting your strategic options.
+Land Mass: Allows you to choose how much of Gladius Prime
+is made up of land. A smaller amount of land on the map will
+mean both more water and more potential chokepoints, but also
+more opportunities to use aircraft to get around enemy lines.
+Artefact Density: The higher this setting, the more ancient
+Ruins of Vaul and other artefacts that will be present on the
+map. While these always render bonuses for your faction if
+youre lucky enough to find them, beware that putting more
+of them on the map gives your opposition more of a chance to
+grab them too!
+Wildlife Density: Gladius Prime is inhabited by many vicious
+creatures, from feral Kroot Hounds to Enslavers that seek
+to control your units minds. Generally these neutral units
+make early development of
+your faction more difficult,
+especially when you do not
+have a large army, and it may
+be wise for newer players
+to reduce their numbers
+until they become more
+experienced.
+Note
+When a world size is selected, the number of AI players will
+automatically adjust to the recommended amount. This can be
+easily changed by adding or removing factions using the plus (+)
+and cross (X) buttons.
+Special Resource Density:
+Special resources, such as
+Grox Pastures, are terrain
+features that provide largerthan-usual benefits to resource
+production in nearby cities. A
+greater resource density will
+mean that more of these are
+present on the map, and that cities will develop slightly faster.
+Ruins of Vaul Density: Ruins
+of Vaul are terrain features
+that can provide substantial
+bonuses to your factions
+research rate, and provide
+benefits to the first unit to
+walk on them. Increasing
+ruin density will tend to
+mean that technology is discovered slightly faster by all factions.
+Jokaero Trader Encampment
+Density: Trader Encampments
+provide an influence bonus to
+cities that include one within
+their boundaries, and in the
+later portion of the game
+they can also be used by
+hero units to acquire various
+traits and weapons. Increasing the density will make these more
+common on the map.
+Necron Tomb Density: The Necrons faction is unique in that
+it is only able to construct its cities on tiles that include Necron
+Tombs. As a result, increasing the tomb density will give the
+16 17
+Necrons more possible
+locations, and will make the
+game easier for them (and
+arguably harder for other
+players). We recommend that
+new players who wish to try
+out the Necrons increase tomb
+density for their first game.
+Wire Weed Density: Wire
+Weed is a terrain feature
+that slows unit movement
+and cannot be built on by
+cities. Increasing density will
+restrict your options on the
+map.
+Forest Density: A greater
+forest density will obviously
+mean more forest tiles on
+the game map, slowing
+movement for most units.
+Note that lowering the forest
+density does not necessarily
+alter the amount of land on
+the map (this can be changed
+in the Land Mass section);
+forests on a lower density
+setting will be replaced by flat
+land such as tundras, deserts
+and grasslands instead.
+River Density: Rivers slow
+movement and can increase
+food production in cities that build on them. Increasing river
+density will tend to slow down armies but will speed up city
+development.
+Once you are satisfied with your settings, select Start to begin your
+game!
+Once a game has begun, the majority of the screen will now be
+covered by the main map. This is where the vast majority of your
+actions in Gladius will take place: armies are moved on the map, cities
+are founded here, resources are harvested and artefacts explored here.
+The map, like that of many other strategy games, is divided into
+hexagonal-shaped tiles, frequently nicknamed hexes. Each hex
+will have its own terrain type, such as tundra, volcanic or grassland.
+18 19
+Some hexes will include natural features, such as rivers or forests,
+and some may include unnatural features, such as an artefact or a
+Necron Tomb. The latter are especially important to anyone playing
+as the Necrons, as those are the only places where Necron cities may
+be founded. (Perhaps it would be a good idea to block them off as
+another faction?)
+The other common terrain is a water-filled tile: labelled coast if it
+is adjacent to a land tile, or ocean if it is not. Coasts and Oceans
+are impassable for all units
+except flying ones (flying units
+are unlocked later in the game),
+and cities may not build on them.
+They yield no resources and hold
+little strategic value besides the
+possibility of sending a swarm
+of bombers around the enemy
+defense line to hit his rear.
+Try hovering over one of the hexes with your mouse cursor. A popup will appear after a brief period of time. This pop-up will tell you
+many useful things about that hex, including the terrain type and
+co-ordinates of the hex. In addition, any special features, including
+forests, artefacts or rivers will be visible, along with the name of a
+unit that may be present. Most importantly, any resources that the
+terrain can provide (as a city-wide percentage bonus) will be listed,
+as well as the number of building slots available if a city is founded
+or expanded into that hex.
+Initially however, only a couple of dozen hexes will be revealed, with
+everything around them being covered in black clouds. These black
+clouds cover areas of the map once known but now forgotten, and they
+are now considered terra incognita, unknown land. Terra incognita
+can be pushed away by simply moving a unit to a hex within a units
+sight range of it, revealing the hex underneath permanently.
+But not totally permanently. As soon as your unit moves away from
+that tile, the clouds will return to form what is known as the fog of
+war. The terrain type itself will still be visible, as will any artefacts
+or other things that were there when the tile was explored. Enemy
+units, however, will become invisible, hidden by the fog of war, and
+you will not be notified if an artefact you ignored is claimed by
+another faction. Do not allow yourself to be fooled by the fog of war:
+tread carefully as you explore the forgotten lands of Gladius Prime.
+20 21
+Speaking of artefacts, if you discover an unexplored Ruin of Vaul or
+another artefact (hovering over the artefact will tell you if it has been
+explored by another faction yet or not), you should aim to move a
+unit into it as soon as possible. Artefacts are guaranteed to provide
+a bonus to the first faction that walks into them, so unless there is
+dangerous wildlife or an enemy army near them, you should seek to
+claim as many as you can before they are all taken by your enemies.
+On the borders of the screen surrounding the map will be a series of
+black boxes and information panels.
+The most important of these is the resource listings in the top-left
+corner of the screen. Depending on your chosen faction, you will
+see only the resources that your factions inhabitants are worried
+about: for instance the Necrons do not worry about food while only
+the Space Marines care about requisition points. Each resource is
+denoted by a coloured icon, and then two numbers. The numbers
+represent both the current stockpile and the projected growth or
+loss of that resource between now and the next turn. For instance, a
+purple symbol followed by 58 (+18) means that currently you have
+58 energy, and unless the situation changes
+drastically you will have 18 more influence
+points next turn, for a total of 76.
+Hovering over each resources numbers will give a breakdown of
+exactly what is causing the stockpile of that resource to change.
+This will usually be due to buildings in cities producing the resource
+while units or population use it up, while other factors such as loyalty
+can have either a small or massive impact at times. If you notice
+that resource stockpiles are ever decreasing, it is essential that you
+construct the appropriate building or disband unnecessary units as
+soon as possible.
+To the right of the resource listings will be a turn
+counter, telling you how many turns have elapsed
+since the beginning of your game. Also here is
+an indicator that tells you what race you are commanding and shows
+what colour you are represented by on the map in case you forgot.
+In the top right corner is a button that will allow you to access a
+smaller version of the Main Menu, where you can save or load a
+game, alter your graphics and audio settings or leave Gladius entirely.
+If you clicked on this by mistake, you may return to your game by
+pressing Continue.
+Underneath the Menu button are five more buttons, represented by
+a book, scroll, flag, exclamation and question marks. Each of these
+opens a screen that provides more information on various aspects of
+your faction that dont directly involve your cities or units. From left
+to right these are:
+Research: opens a screen that allows you to decide
+which weaponry or construction projects your faction
+should attempt to develop. As the game continues,
+having a wide range of advanced weapons will prove very helpful
+in ensuring that it is your faction that controls Gladius Prime.
+Quests: Brings up a list of your past and current
+quests that have been issued throughout the game.
+Because it is possible to win the game by completing
+all of your quests, you should check this screen often.
+Compendium: Opens up the Compendium, an ingame encyclopedia with entries on every unit,
+faction, building, trait and item in the game. Check
+here whenever you discover an enemy unit or just something
+youre not totally sure about, and you will have an advantage
+over your opponents.
+22 23
+Below these will be information on your current research project,
+telling you how many turns (at the current rate of research point
+development) and research points are needed to complete the
+advancement your engineers are attempting to develop. Clicking
+here will take you to the research screen.
+From the beginning of Turn 2, when you are given your first quest,
+the requirements for your current quest will also be listed. Clicking
+on this will take you to the Quest screen, where you will find the
+rewards for that chapter of the quest, as well as some lore and the
+past quests that you have already completed.
+Along the right-hand side of the screen may be a series of notifications
+relevant to the current turn. These may include the discovery of
+enemy units (including wildlife), an artefact being revealed from
+the fog of war or being explored, the founding of a city and more.
+Clicking on one of these will take you to the relevant Compendium
+entry for further information.
+Finally you can find the button to
+end your turn and allow the AI
+to make its move. If you have not yet moved all of your units, this
+button will instead instruct you to move your units. If you do not
+wish to do that, the button next to it, with a white arrow, can instead
+be used to force-end the turn, leaving those units doing nothing
+until the next turn.
+Below that is the minimap, which
+will give the locations of cities and
+known units as coloured dots. In
+addition, hexes obscured by the
+fog of war will be darkened and
+totally unexplored regions will be
+black. The minimap can be used to
+see at a glance where the holes in
+your factions defense lie, as well as helping you find your next target
+quickly. Clicking on the minimap will quickly zoom the rest of the
+map to focus on that part of the world.
+Cities are the most important part
+of your faction: they allow you to
+extract resources, build units and
+maintain control over an area. Lose
+all of your cities, and you will be out
+of the game. Lose a well-developed
+one in the late game, and you might
+wish you were knocked out of the
+game anyway.
+When you begin a game of Gladius, one of your two units
+that you begin the game with will be your factions
+equivalent of an engineer. Unless your starting location is
+absolutely terrible, you will want to found a city on the first turn
+(every turn you spend wandering around looking is a turn your rivals
+are using to get ahead). This is done by pressing the Found City
+button on the engineer unit, or in the case of the Space Marines, the
+Deploy City command under the Operations bar at the top of your
+screen. Your city
+will begin the
+game as a single
+tile structure, but
+it wont be long
+before your cities
+can rival the
+great Imperial
+Hive Worlds.
+24 25
+Once a city has been founded, a defensive tower will automatically
+be created in the hex it was founded in. These towers are quite
+powerful and in the early game it will take an enormous amount of
+force to defeat one (although if you can build mighty Baneblades or
+Gargantuan Squiggoths, this may not be the case anymore). They
+can also bombard enemy units, usually out to two tiles away though
+this can vary depending on which weapons they are equipped with.
+This will require any serious attempt to take them to involve a serious
+investment of force and resources.
+You can explore your own cities by clicking on their name label on
+the map. A sidebar will then appear on your screen detailing the net
+resource output of that city for the various resources. In addition, all
+of the buildings in the city will be listed, along with their resource
+output or upkeep costs. Underneath some building will be buttons
+allowing you to order them to produce units or other buildings, as
+well as the option to acquire tile, giving your city more building
+room. The number of buildings each hex can hold is limited by the
+number of building slots in that hex, while the number of buildings
+operating at once is limited by your citys population.
+From the moment you begin the game, you will be interacting
+with units. Units are used to build cities, units are used to explore
+the landscape, units are used to kill your enemies. Proper unit
+management is one of the most important skills in the game, and
+without it your games will be short and miserable.
+Units are marked on the map by a small group of figures
+(or in the case of larger units, one more imposing figure)
+within a hex. More usefully however, is the small square
+plate above each unit. The icon on the plate tells you what unit it is (if
+it looks unfamiliar, you can mouse over it to find out), while the
+colour of that icon determines which faction it belongs to. Also on
+the plate will be two bars: one for how many hitpoints it has remaining
+(a full bar means full strength), and another one for morale.
+In order for you to make a unit do anything, first it must be selected,
+which is done by clicking on the unit on the map (or the plate just
+above). A selected unit will show a green circle underneath it on the
+map, and a panel on the side of the screen will appear with details
+about the unit. If the option Auto-cycle units is enabled in Settings,
+the game will automatically select your next unit when a previous
+one has finished moving provided there are no enemies within range
+to attack.
+This panel lists several important aspects about your units, each
+marked by a small icon. The most common ones are listed as follows:
+Armour: Some units carry armour, which reduces the
+amount of damage they will suffer from enemy attacks.
+Each point of armour reduces damage by approximately 8%
+Hitpoints: How much health your unit has. When this
+value is reduced to zero, your unit will die and be
+permanently eliminated from the game.
+Morale: A counterpart to hitpoints, morale tells you
+how mentally fit for fighting your unit is. If this value
+drops below 66%, the damage your unit does will be reduced
+by one fourth and the unit is said to be shaken. When morale
+falls to less than 33%, the damage is further reduced to merely
+one half, and the unit is said to be broken, however even if it
+Note
+A city with multiple buildings can be building multiple things at once.
+For instance, a city with the relevant buildings can build both a unit
+and a new building at the same time.
+26 27
+falls to 0% the unit will not necessarily die (although it almost
+certainly will die unless it can retreat quickly).
+Actions: An action is any task a unit conducts other
+than simple movement, and performing one usually
+means that your unit will not be allowed to move again until
+the next turn. The most common action is simply attacking a
+rival unit, but special units such as heroes can also conduct
+more sophisticated actions such as teleportation.
+Movement: How many hexes your unit may move that
+turn. Note that some hexes require multiple movement
+points to cross, while moving to a hex adjacent to an enemy
+unit will use all of your units remaining points.
+Sight Radius: How far the unit is able to see, that is
+to lif the fog of war from a tile. For many early units,
+this is equal to one turns worth of movement. Certain terrain
+features including cliffs and forests can obstruct this distance,
+occasionally making only the adjacent hex visible.
+Experience Level: Taking part in fights will eventually
+see your units become more skilled as more of their
+ranks are filled with hardened veterans. For every level beyond
+the first, the units strength in both attack and defense will
+increase by 10%.
+On the next row will be a list of weapons. The different weapons
+that a unit carries will determine both how many hexes away a
+unit can be for it to target and how powerful an attack is. Mousing
+over each weapons icon will bring up a popup that explains the
+various attributes of a weapon, including damage, range, accuracy
+(which determines how likely it is that an enemy unit will actually
+be damaged), armour penetration (which determines its usefulness
+against heavily armoured units such as tanks), any special effects that
+apply to the weapon and more.
+An example of these is ammunition (or ammo). While
+basic weapons have a limitless supply (although there may
+be a turn cooldown between uses), some weapons come with only a
+limited amount of ammo. Ammo cannot be regained automatically,
+and the weapon will have to be acquired again if you run out.
+Below weapons will be another line of icons.
+These represent the various traits that the unit
+currently has, which can provide bonuses or penalties to the unit.
+Some of these will be faction-specific (Ork units for instance have
+a trait that boosts morale), others unit-specific (for instance, some
+units are immune from the movement penalty through forests) and
+occasionally a situation-specific trait will be present, such as one to
+indicate that a unit is currently in a forest. Each of these is listed in
+the Compendium, and details can also be found by mousing over the
+respective icon.
+The final three rows will be filled with a series
+of large buttons. Each of these represents an
+order that you can give your unit by clicking on
+it. Some of these are simple tasks like heal or
+disband (note that this will delete your unit, saving you on upkeep
+costs but potentially damaging your defensive capabilities. Use with
+caution!), but more advanced units such as heroes will have a much
+Note
+Experience is gained by all units that have fought against an enemy
+unit once that enemy dies, even if they did not fight that turn. This
+means that if one unit is heavily wounded and another one comes
+in to finish off the rival, both will benefit an equal amount once the
+rival dies.
+28 29
+larger variety of orders. Many of these use up action points for that
+turn, so keep this in mind if you have plans for your units to do
+something else first.
+A lot of time in Gladius is spent moving your units around.
+Engineers are sent to build new cities. Scouts are sent to explore the
+lands. Armies are moved into positions from which they can better
+fight their foes. Mastering unit movement is essential to victory in
+Gladius, and this section hopes to make that easier.
+With the exceptions of immobile units such as defensive towers
+in cities, most units have a number of movement points, which
+are displayed on the panel on the left of the screen when a unit is
+selected. Each turn, the amount of movement points is reset to its
+maximum value (so basic infantry units always begin the turn with
+three, for example).
+The amount of movement points your unit has denotes
+how far it is allowed to move. Having three movement
+points means that the unit may move three hexes each turn. Note that
+some hexes, such as ones containing forests and rivers, cost multiple
+points to enter, while moving into a hex directly adjacent to an enemy
+unit will use up all of a units movement points. Cliffs (those rocky
+formations on hex borders) cannot be crossed directly and must be
+walked around – no amount of movement points can change this.
+When a unit is selected, a green border will be visible on the map
+covering an area around the unit. This marks out how far that unit is
+allowed to move within one turn. If you want to move farther than the
+green border, right click on the hex you want to move your unit to, and
+it will move there immediately. Be aware that even if you did not order
+your unit to travel to one of the hexes at the edge of the green region,
+all movement points will be used up for that turn. In Gladius, it is not
+possible to split movement points within the one turn.
+If you instead want to move further than the green border, you are
+still allowed to click on a more distant hex. Before you release the
+right mouse button, a line of green arrows will be marked out on the
+map, along with gear symbols showing where the unit would stop each
+turn (they cant use more than their maximum number of movement
+points each turn). The unit will then automatically move towards the
+more distant tile each turn until it reaches it. It will always take the
+fastest route possible, but this may not always be the safest route, so be
+careful when giving units long-ranged movement orders.
+Note
+You are still allowed to change your units order before it reaches
+the distant hex, as long as it has not used up its movement points
+for that turn.
+30 31
+Basic attacks are done in much
+the same way, by right clicking
+on an enemy unit within range.
+An attack requires that you
+have a weapon with sufficient
+range and at least one point
+of ammo (if this is limited), as
+well as the unit having at least
+one action point. You do not
+require movement points in
+order to attack, so it is possible
+to move to the absolute edge of
+the green border for movement and then attack an adjacent unit (or
+in some cases, a unit two or more hexes away) all within the one turn.
+If you right click on an enemy unit, a prognosis will appear on
+the side of the screen telling you how many casualties both
+sides should expect to suffer. Note that this is not 100% accurate: units
+can, and frequently will, suffer more or less casualties, but the prognosis
+should give a result close to the true outcome of the battle. If you are
+happy, right click to attack the unit. This will also use up all of your
+units movement points for the turn, in addition to an action point.
+In order to survive against the fierce competition that your rivals will
+put up, it is essential to acquire and maintain a technological lead
+wherever possible. This is done by producing research.
+Research points are a form of resource, similar to ore or requisitions,
+and can be obtained by the same means as any other resource: certain
+buildings can generate them, they can be found on some tiles and
+the presence of some artefacts (including Ruins of Vaul) within city
+boundaries will generate them. In addition, cities with high loyalty
+will see a slight increase in research production.
+Research points are then spent in the research screen, which is accessed
+by clicking on the book icon in the top right corner of the screen, or
+alternatively by clicking on No Research Selected (this will display
+the name of the technology being researched instead if applicable).
+Discovering technologies is done by investing research points into
+them over a number of turns, until enough have been accumulated
+for the technology to be understood by your population. At that
+point, you will be presented with a popup informing you that the
+tech has been discovered, so that you can tell your scientists to begin
+work on another project.
+In the Research Screen, technologies are divided into ten tiers.
+You begin the game with only access to tier one, but once you
+Note
+Even if you kill an enemy unit in combat, your unit will not move to
+the hex that has been vacated as a result
+32 33
+have discovered two from tier one
+the techs from the second tier
+will become available, two from
+tier two to unlock tier three and
+so forth. Some techs have the
+additional requirement that you
+have researched another tech first
+(possibly from the same tier, usually
+from a previous one).
+This is made easier by the fact that
+all techs currently available for
+research are highlighted by white
+writing. Ones that are unavailable are
+greyed, while techs you have already
+discovered are in blue. To choose which project you want to begin
+investing research points into, simply click on it and then press OK.
+In a number of cases, it is possible to begin researching techs that allow
+the construction of buildings that are then used to build certain units
+(for instance, buildings that make aircraft). This does not necessarily
+mean you will be able to build said unit immediately afterwards, as
+many units also have their own technology requirement.
+The Compendium is an in-game source that contains information
+on many important game aspects. It is usually accessed using the
+button in the top right corner of the screen when you are in a game,
+and clicking on many of the notifications on the right hand side of
+the screen will also take you to the relevant compendium entry.
+The Compendium is divided into seven sections, with each one then
+being broken up into dozens of articles on the different forms that
+that game aspect can come in:
+Buildings: Here you will find the costs and benefits that each
+building in the game can add to your faction, as well as any relevant
+information such as what unit types it unlocks for construction.
+Factions: Contains articles on the Astra Militarum, Necrons,
+Orks and Space Marines. Each explains the special rules that
+each faction abides by (for instance, different resources being
+usable only by that faction), as well as some lore to explain that
+factions role in the Warhammer 40,000 universe.
+Features: All of the different things you might find on the map,
+from simple Grassland terrain to an explanation of Shards of
+Vaul are found here. Depending on the feature, you will find
+information explaining how it affects movement, resources,
+combat or a combination of those.
+Note
+it is possible to change your research project mid-tech, but beware
+that this will cause you to lose ALL progress on the tech you are
+abandoning.
+34 35
+Items: Explains the different items that may be carried by hero
+units and their various effects on combat.
+Tips: A list of the all of the tutorial tips. If you have forgotten
+how a game concept works, this is the quickest way to remind
+yourself.
+Traits: This section explains the various traits that units can
+be affected by at any one time, whether they be caused by an
+event (such as exploring an artefact) or simply by what faction
+you are playing as.
+nits: A list of every unit in the game (including neutral
+wildlife), including movement and combat stats, explanations
+of the different weapons that they carry, traits, actions they can
+carry out (for instance, founding a city), cost and upkeep.
+Once your cities are running smoothly and your armies are well
+established, you will eventually start thinking about how you are
+going to finally confirm your superiority over your rivals by winning
+the game. There are two ways to do this:
+Outright global conquest of Gladius Prime, crushing all of
+your rivals into dust. The method to this is simple: build the
+biggest army with the best guns, and keep fighting until there
+is no one left to fight.
+Establish your factions presence on Gladius Prime by
+completing all of your factions quests.
+The ques is a series of challenges and tasks that you are instructed
+to fulfill as the game progresses. The exact requirements of them
+vary wildly, with everything from building an army to discovering
+certain technologies to hoarding resources. At each stage, you will
+be rewarded for completing a chapter of the quest, usually with
+something related to the task. For instance, researching a food
+production technology may give you food, while building a barracks
+might instead provide you with a free unit.
+The first quest unlocks at the beginning of the second turn, and there
+is no time limit to completing them. Subsequent chapters of the quest
+are unlocked as you complete the previous ones, so if you want to win
+using this method then it would be a good idea not to waste time!
+In addition to the regular
+fog of war, some (usually
+infantry) enemy units can
+also be obscured from view
+if they are in a forest. The
+forests will not be covered by
+the dark clouds that show the
+fog of war, but the unit inside
+them will only be visible if a
+friendly unit (whether yours
+or another faction on your
+team) is adjacent. Beware of enemy units waiting in forests for the
+chance to finish off your wounded units.
+Once you have reached the second technology tier and researched
+the appropriate tech, it will be possible to build hero units in cities
+36 37
+with the required buildings. Hero units are much stronger than
+regular infantry units, and have access to powerful traits and abilities
+that lesser units don have.
+Among these is the ability to access the shop at a Jokaero Trader
+Encampment. To use this, move your hero unit on to a hex with the
+Encampment, and click the shop button that will appear in the panel
+on the bottom-left corner of the screen.
+At the shop, you will be able to buy and sell items for your
+unit by spending influence points. On the left hand side
+of the shop screen will be a list of all the items that the
+hero is currently carrying, as well as how many items it is allowed
+to carry and your factions influence point stockpile. To sell an item,
+just click on it and it will be removed from your unit, with half of the
+items value being returned to your influence stockpile.
+Buying items is done the same way in the middle of the screen. The
+cost of an item is shown underneath its name, and you can hover the
+mouse over an item for a tooltip to appear and explain what the item
+will do. Some items are considered passive, and will net your unit (or
+sometimes the whole faction) a bonus for as long as they are held.
+Others (such as grenades) have a limited number of harges, the
+number of times you can use that item. Once the item has run out of
+charges, it will disappear forever, and you will have to return to the
+Encampment to buy another one should you wish to use it again.
+Once you are satisfied with your purchases
+(or you want to leave without purchasing
+anything), you can click the OK button to
+return to the map screen. On the bottom left
+corner of the screen, a new panel will show
+Note
+Jokaero Trader Encampments have an infinite supply of items, and
+will never run out no matter how many times you purchase the
+same item.
+38 39
+the items that your hero is now carrying. If one of these items is a
+grenade or similar single-use item, clicking one of those buttons will
+allow you to use that item.
+Once the middle tiers of the tech
+tree have been researched and
+appropriate buildings constructed,
+it will be possible for your faction
+to build aircraft units.
+Aircraft are controlled the same
+way other units are, and they
+attack no differently to ground
+units. They do however have more
+options when moving: they can fly straight over cliffs (while ground
+units are forced to go around them), they are not slowed by forests
+or other terrain obstacles, and they are the only units that can cross
+water (coast or ocean) tiles.
+Some aircraft also have the ability to transport units across
+the map. These units will have the trait. If you
+want to load a unit onto a transport, simply move that unit into the
+hex containing the transport aircraft. Once units are loaded on the
+transport, a menu will appear labelled Cargo, with icons for all of
+the units currently loaded. To unload, click and drag one of the icons
+onto a hex on the map and that unit will leave the transport and
+move to that hex.
+Scattered across the map will be
+several double-pyramid structures
+called artefacts. These are special
+units that do not fight and cannot
+be moved, but award their faction
+various bonuses, ranging from
+increased production in cities to an
+increased movement rate.
+Artefacts can be captured by moving
+a unit next to them and then rightclicking on them, as if to attack
+(instead of a red hex to indicate an attack, a blue border will show
+that it can be captured). Capturing the artefact will allow your
+faction to take advantage of its benefits for as long as you control
+it (your rivals will not take kindly to capturing the artefact, and are
+likely to try to take it back).
+Some artefacts, such as the Old One Obelisk, award special traits to
+your units (in the case of the Obelisk, the trait will provide a 25%
+melee damage bonus). These traits will be present only as long as you
+command the artefact, and will disappear if a rival captures it.
+The first thing you should consider when beginning your game of
+Gladius is where to place your first city. While cities never require the
+perfect location (the resources obtained are small in comparison
+to the amounts buildings can generate), it is essential that your first
+Note
+If your transport is destroyed, all the units carried on it will be
+destroyed as well!
+40 41
+is well placed – the technology for building engineer units is not
+available until the third tier, while the Space Marines cannot build
+additional cities at all.
+The best location for a city is one with a variety of resources,
+especially in the hex it is first built in but also the ones immediately
+surrounding it. Most tiles contain one or more bonuses to resource
+production – deserts provide a 20% bonus to energy production, while
+grasslands provide 40% more food. Once these tiles are acquired by a
+city, that bonus is added to the amount that each building in the city
+produces of that resource. Obtaining a range of terrain types within
+your citys walls will help ensure you have the lead in every resources
+production, and can be a major advantage in the game.
+Additionally you should see if it is possible to build your city near
+an artefact or terrain feature. Arguably the most useful of these are
+Ruins of Vaul, which if brought within your borders provides an
+even larger bonus to research than is commonly found on the map.
+In the days before research buildings are widespread, this can boost
+your research to a level that other factions will struggle to match, but
+other features exist for the other resources.
+These special features can be secured for your faction by having one
+of your units end its turn on their hex. When they are captured in
+this way, the flat resource bonus (for instance, +2 food from Grox
+Pastures) will become immediately available and a small border will
+appear around the feature. Take care to defend your ground, as an
+enemy unit can usurp control of the feature if it is left unguarded.
+The additional percentage bonuses will only become available if a
+city acquires their tile, at which point the bonus will be applied to
+the entire citys production
